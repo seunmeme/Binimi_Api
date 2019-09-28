@@ -11,7 +11,7 @@ module.exports = {
     dialect: 'postgres'
   },
   test: {
-    database: 'binimi',
+    database: 'binimi_test',
     username: 'postgres',
     password: 'root',
     host: '127.0.0.1',

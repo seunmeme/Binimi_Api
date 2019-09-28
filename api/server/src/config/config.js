@@ -10,7 +10,7 @@ module.exports ={
   },
 
   test: {
-    database: 'binimi-test',
+    database: 'binimi_test',
     username: 'postgres',
     password: 'root',
     host: '127.0.0.1',
